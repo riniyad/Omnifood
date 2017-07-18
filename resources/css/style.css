@@ -25,6 +25,7 @@ html{
     visibility: hidden;
 
 }
+a{text-decoration: none;}
 /*--------------------------------------*/
 /*---Reusabe comp0nents---*/
 /*--------------------------------------*/
