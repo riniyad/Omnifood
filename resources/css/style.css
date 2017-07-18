@@ -103,7 +103,7 @@ h2:after {
     display: block;
     color: orange;
     margin-bottom: 10px;
-
+    text-align: center;
 }
 
 .icon-small{
